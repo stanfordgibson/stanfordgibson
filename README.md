@@ -15,7 +15,7 @@ The public showcase includes screenshots from the working demo, a video, archite
 ## Tools I work with
 
 - **Data and analysis:** Python, pandas, SQL, BigQuery, PostgreSQL, Google Sheets, Power BI and Looker Studio.
-- **Automation and applications:** Google Apps Script, AppSheet, Make.com, Ruby/Sinatra and JavaScript.
+- **Automation and applications:** Google Apps Script, AppSheet, Make.com and JavaScript.
 - **Geospatial work:** QGIS, PostGIS and location-based queries.
 
 ## What I'm developing further
